@@ -17,5 +17,4 @@ class CreateCostumes < ActiveRecord::Migration
       t.string :size
     end
   end
-
 end
